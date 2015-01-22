@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 fsdfkll;
+=======
+change in dev in nt.
+>>>>>>> bf8a31070e097ca017ae65789c5b5ec160846ae9
